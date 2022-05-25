@@ -41,3 +41,9 @@
     //   display: none;
     // }
   }
+
+  @media screen and (orientation: landscape) {
+    .pl {
+      min-height: 100vw;
+    }
+  }

@@ -74,6 +74,12 @@
     //   margin-bottom: 10px;
   }
   
+  @media screen and (orientation: landscape) {
+    .a {
+      height: 100vw;
+    }
+  }
+
   @media screen and (max-width:1000px) {
       .a{
         flex-direction: column;

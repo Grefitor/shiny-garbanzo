@@ -50,7 +50,7 @@
                 color: var(--primary-text-color);
                 display: flex;
                 align-items: center;
-                
+
             }
         }
     }
@@ -110,13 +110,15 @@
             flex-basis: 35%;
             padding-left: 8rem;
             overflow: unset;
-            &-img {                
+
+            &-img {
                 height: 260px;
                 width: 300px;
                 position: absolute;
                 left: 50%;
                 transform: translateX(-50%);
             }
+
             &-bg {
                 clip-path: none
             }
@@ -142,4 +144,10 @@
     }
 
 
+}
+
+@media screen and (orientation: landscape) {
+    .i {
+        height: 100vw;
+    }
 }
