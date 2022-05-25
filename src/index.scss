@@ -1,0 +1,50 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--black-color);
+}
+
+* {
+  transition: background-color 200ms ease;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  height: 100%;
+}
+
+:root {
+  --font-size-xxl: 3.75rem;
+  --font-size-xl: 1.875rem;
+  --size-50: 3.125rem;
+  --size-10: 0.625rem;
+  --font-weight-b: 700;
+  --font-weight-sb: 500;
+  --font-weight-r: 400;
+  --font-weight-l: 300;
+  --primary-bg-color: #59b256;
+  --white-color: #fff;
+  --black-color: #404040;
+  --breakpoint-md: 1000px;
+}
+
+@import url('./sass/animations.scss');  
+@import url('./sass/fonts.scss');
+
+@media screen and (max-width: 1000px) {
+  html, body {
+    font-size: 14px;
+  }
+}
