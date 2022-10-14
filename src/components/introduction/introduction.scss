@@ -146,7 +146,7 @@
 
 }
 
-@media screen and (orientation: landscape) {
+@media screen and (min-width: 481px) and (max-width: 767px) and (orientation: landscape) {
     .i {
         height: 100vw;
     }

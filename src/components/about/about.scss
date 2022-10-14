@@ -74,7 +74,7 @@
     //   margin-bottom: 10px;
   }
   
-  @media screen and (orientation: landscape) {
+  @media screen and (min-width: 481px) and (max-width: 767px) and (orientation: landscape) {
     .a {
       height: 100vw;
     }
