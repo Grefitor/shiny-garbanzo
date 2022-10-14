@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shiny-garbanzo/static/css/main.4492c847.css",
+    "main.css": "/shiny-garbanzo/static/css/main.2dd2a09b.css",
     "main.js": "/shiny-garbanzo/static/js/main.cc0e1c47.js",
     "static/js/787.883d64eb.chunk.js": "/shiny-garbanzo/static/js/787.883d64eb.chunk.js",
     "static/media/developer.jpg": "/shiny-garbanzo/static/media/developer.5e467d9191c179ff30fb.jpg",
@@ -14,12 +14,12 @@
     "static/media/moon.png": "/shiny-garbanzo/static/media/moon.3bea3d398a25611d421b.png",
     "static/media/web_developer.svg": "/shiny-garbanzo/static/media/web_developer.3f53d42f4a5459c89183f1d914ee49b0.svg",
     "index.html": "/shiny-garbanzo/index.html",
-    "main.4492c847.css.map": "/shiny-garbanzo/static/css/main.4492c847.css.map",
+    "main.2dd2a09b.css.map": "/shiny-garbanzo/static/css/main.2dd2a09b.css.map",
     "main.cc0e1c47.js.map": "/shiny-garbanzo/static/js/main.cc0e1c47.js.map",
     "787.883d64eb.chunk.js.map": "/shiny-garbanzo/static/js/787.883d64eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4492c847.css",
+    "static/css/main.2dd2a09b.css",
     "static/js/main.cc0e1c47.js"
   ]
 }
